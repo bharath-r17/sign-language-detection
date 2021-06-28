@@ -29,6 +29,7 @@
 - The app takes an image as an input and gives out the predicted character 
 - The model can identify alphabets, numbers and an underscore character used as space
 
+#### Data Set Used: [Sign Language Gesture Images Dataset - Unique 37 Hand Sign Gestures](https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset)
 
 #### Model Summary 
 > 
