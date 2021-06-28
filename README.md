@@ -2,9 +2,9 @@
 
 <b> Note : </b> The complete code along with pretrained model is availbale at [this](https://drive.google.com/file/d/1asp49Y5LbjCnRxetISSnXsfn-cHYaRLP/view?usp=sharing) link 
 
-> ----------------------------------------------------------------
+> 
 >        Layer (type)               Output Shape         Param 
-> ================================================================
+>
 >            Linear-1                 [-1, 1024]       7,681,024
 >              ReLU-2                 [-1, 1024]               0
 >            Linear-3                 [-1, 2048]       2,099,200
